@@ -22,15 +22,15 @@
   max-width: 90%; /* Para garantir que o conteúdo seja responsivo */
 }
 
-.all-content, a {
+.all-content {
   display: block;
-  width: 50%;
+  width: 100%; /* Ajuste para que os links ocupem 100% da largura */
+  max-width: 90%; /* Definindo um limite máximo para a largura em telas maiores */
   box-shadow: -4px 10px 10px 0 rgba(0, 0, 0, 0.555);
 }
 
-
 a{
-  width: 100%;
+  box-shadow: -4px 5px 5px 0 rgba(0, 0, 0, 0.555);
 }
 
 h1 {
