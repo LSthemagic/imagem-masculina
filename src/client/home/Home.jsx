@@ -33,7 +33,7 @@ const Home = () => {
                             </a>
                              <a
                                 className="flex flex-row gap-2 md:gap-5 p-3 md:pl-10 md:pr-10 rounded-lg items-center bg-primary text-white hover:scale-105 whitespace-nowrap hover:text-secondary w-full"
-                                href="https://wa.me/message/X63QORHDRLEZI1"
+                                href="https://forms.gle/7PLc6ia85wT7BnRd9"
                                 
                             >
                                 <LuHeartHandshake />
