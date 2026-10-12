@@ -1,5 +1,5 @@
-import { TbRazorElectric } from "react-icons/tb";
 import { IoLogoWhatsapp } from "react-icons/io";
+import { LuHeartHandshake } from "react-icons/lu";
 
 const Home = () => {
     return (
@@ -30,6 +30,14 @@ const Home = () => {
                             >
                                 <IoLogoWhatsapp />
                                 Agendar no WhatsApp
+                            </a>
+                             <a
+                                className="flex flex-row gap-2 md:gap-5 p-3 md:pl-10 md:pr-10 rounded-lg items-center bg-primary text-white hover:scale-105 whitespace-nowrap hover:text-secondary w-full"
+                                href="https://wa.me/message/X63QORHDRLEZI1"
+                                
+                            >
+                                <LuHeartHandshake />
+                                Faça parte da nossa equipe
                             </a>
                         </section>
                     </div>
